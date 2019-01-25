@@ -1,5 +1,5 @@
 {
-  "name": "ccxt",
+  "name": "ccxt-without-theocean",
   "version": "1.18.151",
   "description": "A JavaScript / Python / PHP cryptocurrency trading library with support for 100+ exchanges",
   "main": "./ccxt.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccxt/ccxt.git"
+    "url": "https://github.com/yudaprama/ccxt.git"
   },
   "readme": "README.md",
   "scripts": {
